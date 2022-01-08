@@ -1,0 +1,28 @@
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    font-size: 50px;
+
+}
+body{
+    background-color: rgb(59, 59, 59);
+}
+
+p{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:  35px;
+}
+
+a{
+    color:rgb(186, 228, 252);
+}
+
+header{
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.205);
+    
+    font-size: 20px;
+    font-family:cursive;
+}
